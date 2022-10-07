@@ -1,0 +1,12 @@
+.square {
+    list-style-type: square;
+}
+.abc {
+    list-style-type:upper-alpha;
+}
+.naast{
+    list-style-type: none;
+}
+.naastin{
+    display: inline-block;
+}
